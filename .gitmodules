@@ -1,0 +1,3 @@
+[submodule "aws-lambda-retry-issue"]
+	path = aws-lambda-retry-issue
+	url = https://github.com/xahhy/aws-lambda-retry-issue
